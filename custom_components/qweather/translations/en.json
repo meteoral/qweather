@@ -1,0 +1,18 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "description": " \n\n 注意：信息获取次数有限制，请自行申请appkey \n\n appkey申请地址：https://console.qweather.com/#/apps",
+                "data": {
+                    "name": "config id",
+                    "location": "city name",
+                    "appkey": "appkey"
+                }
+            }
+        },
+        "error": {},
+        "abort": {
+            "single_instance_allowed": "仅允许单个配置."
+        }
+    }
+}

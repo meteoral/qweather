@@ -1,0 +1,12 @@
+{
+  "domain": "qweather",
+  "name": "QWeather",
+  "config_flow": true,
+  "documentation": "https://github.com/meteoral/qweather",
+  "issue_tracker": "https://github.com/meteoral/qweather/issues",
+  "codeowners": ["@meteoral"],
+  "iot_class": "cloud_poll",
+  "requirements": [],
+  "quality_scale": "silver",
+  "version": "0.0.1"
+  }
